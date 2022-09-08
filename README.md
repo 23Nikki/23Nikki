@@ -1,4 +1,4 @@
-### Hola![waving-hi (1)](/Downloads/waving-hi (1).gif =250x250!) I'm Nikki Kishore
+### Hola![waving-hi (1)](/Downloads/waving-hi (1).gif) I'm Nikki Kishore
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning devops and cloud computing.
