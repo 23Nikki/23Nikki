@@ -1,4 +1,5 @@
-### Hola!https://tenor.com/view/wave-hello-emote-flat-waving-gif-22026836 I'm Nikki Kishore
+### Hola!I'm Nikki Kishore
+![GIRL](https://user-images.githubusercontent.com/72200951/189088212-f1a2d2ad-9d6d-4305-9b2c-d1e16734745a.gif)
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning devops and cloud computing.
