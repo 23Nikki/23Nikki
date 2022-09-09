@@ -1,4 +1,4 @@
-### Hola!![GIRL](https://user-images.githubusercontent.com/72200951/189097151-72c1d349-e447-421e-9182-691f4e2b8df9.gif) I'm Nikki Kishore
+### Hola!![ezgif com-gif-maker](https://user-images.githubusercontent.com/72200951/189320465-e0707c99-b52d-4285-ad5d-d314d1fa2cdf.gif)I'm Nikki Kishore
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning devops and cloud computing.
