@@ -19,6 +19,7 @@ I have **keen** interest in **problem solving** looking for a platform to **enha
 - ⚡ Fun fact: I love dancing
 
 ### Connect with me
+[![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/nikkikishore_/)
 
 
 ![Nikki's GitHub stats](https://github-readme-stats.vercel.app/api?username=23Nikki&show_icons=true&theme=radical)
