@@ -19,8 +19,9 @@ I have **keen** interest in **problem solving** looking for a platform to **enha
 - ⚡ Fun fact: I love dancing
 
 ### Connect with me
-[![Linkedin Badge](https://img.shields.io/badge/-NikkiKishore-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikkikishore/)](https://www.linkedin.com/in/nikkikishore/)
-[![Linkedin Badge](https://img.shields.io/badge/-nikkikishore-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikkikishore/)](https://www.linkedin.com/in/nikkikishore/)
+<a href="https://www.linkedin.com/in/nikki-kishore/" target="blank"><img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikki_kishore" height="20" width="20" /></a> &nbsp;
+
 
 
 ![Nikki's GitHub stats](https://github-readme-stats.vercel.app/api?username=23Nikki&show_icons=true&theme=radical)
