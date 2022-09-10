@@ -19,7 +19,7 @@ I have **keen** interest in **problem solving** looking for a platform to **enha
 - ⚡ Fun fact: I love dancing
 
 ### Connect with me
-<a href="https://www.linkedin.com/in/nikki-kishore/" target="blank"><img align="center"
+<a href="https://www.linkedin.com/in/nikki-kishore-86251b1b6/" target="blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikki_kishore" height="20" width="20" /></a> &nbsp;
 
 
