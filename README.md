@@ -5,9 +5,7 @@
 *I am Final Year Computer Science Undergraduate from* **Shrivei Institute of Engineering and Technology**.
 *A* **Technophile** ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/72200951/189470703-b6cbb9cf-c04b-4370-9a5b-a9bf0212ad1a.gif)*who is obsessed with the idea of improving herself.*
 *I have **keen** interest in* **problem solving.** 
-*looking for a platform to* **enhance my knowledge**, **grow** and **excel**![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/72200951/189470813-915b6fba-00b0-4ea7-8a9e-cb52f811908a.gif)
-
-
+*looking for a platform to* **enhance my knowledge**, **grow** and **excel**![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/72200951/189480327-fe32c3b0-fa59-40ec-823f-8aeb00117af5.gif)
 
 ### Tech skills and Tools
 
@@ -16,7 +14,7 @@
 
   
 - 🌱 I’m currently learning devops and cloud computing.
-- 👀 I'm looking for full time oppoetunities/roles
+- 👀 I'm looking for full time opportunities/roles.
 - ⚡ Fun fact: I love dancing![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/72200951/189479321-601e1c46-d521-4cab-89f2-bef0da40b5ec.gif),sketching                and painting.
 
 ### Connect with me
