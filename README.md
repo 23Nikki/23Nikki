@@ -1,6 +1,5 @@
 ### ![greetings](https://user-images.githubusercontent.com/72200951/189470935-6728b429-07e2-4794-8ef7-369b5c64af87.gif)
-### I am Nikki Kishore
-
+### I am Nikki Kishore![ezgif com-gif-maker](https://user-images.githubusercontent.com/72200951/189480164-8f182c88-549e-4bb8-8183-8fd508435fc6.gif)
 
 
 *I am Final Year Computer Science Undergraduate from* **Shrivei Institute of Engineering and Technology**.
@@ -18,7 +17,7 @@
   
 - 🌱 I’m currently learning devops and cloud computing.
 - 👀 I'm looking for full time oppoetunities/roles
-- ⚡ Fun fact: I love dancing![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/72200951/189479321-601e1c46-d521-4cab-89f2-bef0da40b5ec.gif)
+- ⚡ Fun fact: I love dancing![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/72200951/189479321-601e1c46-d521-4cab-89f2-bef0da40b5ec.gif),sketching                and painting.
 
 ### Connect with me
 
