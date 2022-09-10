@@ -5,11 +5,12 @@
 
 *I am Final Year Computer Science Undergraduate from* **Shrivei Institute of Engineering and Technology**.
 *A* **Technophile** ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/72200951/189470703-b6cbb9cf-c04b-4370-9a5b-a9bf0212ad1a.gif)*who is obsessed with the idea of improving herself.*
-*I have **keen** interest in* **problem solving** *looking for a platform to* **enhance my knowledge**, **grow** and **excel**![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/72200951/189470813-915b6fba-00b0-4ea7-8a9e-cb52f811908a.gif)
+*I have **keen** interest in* **problem solving.** 
+*looking for a platform to* **enhance my knowledge**, **grow** and **excel**![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/72200951/189470813-915b6fba-00b0-4ea7-8a9e-cb52f811908a.gif)
 
 
 
-### Tech skills stack
+### Tech skills and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=c,python,java,html,css,mysql,git,github,androidstudio)](https://skillicons.dev)
 
