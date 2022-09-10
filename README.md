@@ -20,6 +20,7 @@ I have **keen** interest in **problem solving** looking for a platform to **enha
 
 ### Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-NikkiKishore-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikkikishore/)](https://www.linkedin.com/in/nikkikishore/)
+[![Linkedin Badge](https://img.shields.io/badge/-nikkikishore-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikkikishore/)](https://www.linkedin.com/in/nikkikishore/)
 
 
 ![Nikki's GitHub stats](https://github-readme-stats.vercel.app/api?username=23Nikki&show_icons=true&theme=radical)
