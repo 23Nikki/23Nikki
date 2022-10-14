@@ -24,4 +24,4 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 
 
 
-![Nikki's GitHub stats](https://github-readme-stats.vercel.app/api?username=23Nikki&show_icons=true&theme=radical)
+![Nikki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishorenikki&show_icons=true&theme=radical)
