@@ -37,4 +37,4 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 <img src="https://github-readme-stats.vercel.app/api?username=23Nikki&show_icons=true" />
 </picture>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindrahvasudeva&label=Profile%20views&color=0e75b6&style=flat" alt="ravindrahvasudeva" /> </p>
