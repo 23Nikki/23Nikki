@@ -2,7 +2,7 @@
 ### I am Nikki Kishore![ezgif com-gif-maker](https://user-images.githubusercontent.com/72200951/189480164-8f182c88-549e-4bb8-8183-8fd508435fc6.gif)
 
 
-*I am Final Year Computer Science Undergraduate from* **Shrivei Institute of Engineering and Technology**.
+*I am a Computer Science Graduate from* **Shrivei Institute of Engineering and Technology**.
 *A* **Technophile** ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/72200951/189470703-b6cbb9cf-c04b-4370-9a5b-a9bf0212ad1a.gif)*who is obsessed with the idea of improving herself.*
 *I have **keen** interest in* **problem solving.** 
 *looking for a platform to* **enhance *my* knowledge**, **grow** *and* **excel**![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/72200951/189480327-fe32c3b0-fa59-40ec-823f-8aeb00117af5.gif)
