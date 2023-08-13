@@ -9,13 +9,13 @@
 
 ### Tech skills and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,java,html,css,mysql,git,github,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,java,html,css,javascript)](https://skillicons.dev)
 
 
   
 - 🌱 I’m currently learning devops and cloud computing.
 - 👀 I'm looking for full time opportunities/roles.
-- ⚡ Fun fact: I love dancing![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/72200951/189479321-601e1c46-d521-4cab-89f2-bef0da40b5ec.gif),sketching                and painting.
+- ⚡ Fun fact: I love dancing,sketching and painting.
 
 ### Connect with me
 
