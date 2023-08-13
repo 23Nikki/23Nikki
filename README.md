@@ -9,7 +9,7 @@
 
 ### Tech skills and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,java,html,css,mysql,git,github,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,java,html,css,mysql,git,github,javascript)](https://skillicons.dev)
 
 
   
